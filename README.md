@@ -60,8 +60,8 @@ Key findings from the EDA include:
 Visualizations include:
 - Class imbalance analysis
 - Amount distribution (log-scale)
-- Time-Based Transaction Patterns
-- Feature Distribution Analysis
+- Time-Based transaction patterns
+- Feature distribution analysis
 
 ## 🤖 Machine Learning Models
 The project experiments with supervised learning models for binary classification:
