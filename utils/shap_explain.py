@@ -1,7 +1,7 @@
 # utils/shap_explain.py
 import shap
 import matplotlib
-matplotlib.use("Agg")  # 避免 Docker crash
+matplotlib.use("Agg")  # Avoid Docker crash
 import matplotlib.pyplot as plt
 import os
 import joblib
