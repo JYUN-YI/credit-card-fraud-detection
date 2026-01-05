@@ -1,4 +1,4 @@
-# 💳 Credit Card Fraud Detection
+# 💳 EU Credit Card Fraud Detection
 
 ## 📌 Project Objective
 This project aims to build an end-to-end **credit card fraud detection system** that identifies fraudulent transactions from highly imbalanced data.  
