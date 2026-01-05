@@ -95,10 +95,10 @@ An interactive **Streamlit web application** is deployed to demonstrate:
 This transforms the project from a notebook-based analysis into a **deployable ML product**.
 
 ## ⚙️ Technologies Used
-- Programming: Python
+- Programming Language: Python
 - Data Processing: Pandas, NumPy
-- Visualization: Matplotlib, Seaborn
-- Machine Learning: Logistic Regression, Random Forest, XGBoost
+- Data Visualization: Matplotlib, Seaborn
+- Machine Learning Models: Logistic Regression, Random Forest, XGBoost
 - Model Interpretability: SHAP
 - Deployment: Streamlit, Docker, Hugging Face Spaces
 - Version Control: Git, GitHub
