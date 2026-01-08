@@ -24,12 +24,12 @@ Key objectives:
 │ └── y_test.csv
 │
 ├── notebooks/
-│ ├── 01_data_processing.py
-│ ├── 02_EDA_visualization.py
-│ ├── 03_modeling_preparation.py
-│ ├── 04_model_training.py
-│ ├── 05_model_explainability.py
-│ └── Credit-Card-Fraud-Detection_Full.py
+│ ├── 01_data_processing.ipynb
+│ ├── 02_EDA_visualization.ipynb
+│ ├── 03_modeling_preparation.ipynb
+│ ├── 04_model_training.ipynb
+│ ├── 05_model_explainability.ipynb
+│ └── Credit-Card-Fraud-Detection_Full.ipynb
 │
 ├── pages/
 │ ├── 1_dataset_overview.py
